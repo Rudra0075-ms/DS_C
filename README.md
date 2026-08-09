@@ -11,6 +11,7 @@ This repository contains basic C programming programs for practice.
 - `matrix_multi.c` – Matrix Multiplication
 - `reverse_array.c` – Reverse Array
 - `sparse.c` – Sparse Matrix
+- `stack.c` - Stack Matrix
 - `transpose1.c` – Matrix Transpose
 
 ## Language
